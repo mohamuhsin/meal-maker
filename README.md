@@ -31,7 +31,7 @@ Below the properties, use the set keyword to create a meal setter method with me
 **7.** Utilizing the same procedures as above, use the set keyword to create a price setter with priceToCheck as a parameter. This method should make sure the value associated with _price is always a number.
 
 ### Add a Getter Method
-9.
-Now it’s time to safely return the values of the _meal and _price properties in a readable form. Instead of directly accessing the properties, we can use a getter method that proactively checks if a meal and price have been properly set, before returning the values.
+
+**9.** Now it’s time to safely return the values of the _meal and _price properties in a readable form. Instead of directly accessing the properties, we can use a getter method that proactively checks if a meal and price have been properly set, before returning the values.
 
 Below the setters, use the get keyword to create a todaysSpecial method. Leave the function body empty for now.
