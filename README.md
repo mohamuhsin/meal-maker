@@ -7,3 +7,8 @@ A restaurant has hired you to create a function for their website that allows th
 **1.** We’ll hold the meal, price, and their respective getters and setters in an object named menu.
 
 create an empty menu object.
+
+**2.**
+The menu object will hold the meal and price of Today’s Special as properties and they shouldn’t be altered directly.
+
+Within the menu object, create a _meal property with a value of an empty string (''). This will eventually hold the name of the meal.
