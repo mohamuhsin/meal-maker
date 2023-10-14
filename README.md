@@ -25,3 +25,6 @@ Then, below the new assignments, console.log() the menu object to see how not ty
 **5.** To safely reassign the two menu properties, we can add setters that type check the values being assigned.
 
 Below the properties, use the set keyword to create a meal setter method with mealToCheck as a parameter. Leave the function body empty for now.
+
+**6.**
+In the body of the setter method, create an if statement that checks if mealToCheck is a string. If it is, return the object’s _meal property with mealToCheck assigned as the value.
