@@ -11,3 +11,6 @@ create an empty menu object.
 **2.** The menu object will hold the meal and price of Today’s Special as properties and they shouldn’t be altered directly.
 
 Within the menu object, create a _meal property with a value of an empty string (''). This will eventually hold the name of the meal.
+
+3.
+Next, add a _price property with a value of 0. This will eventually hold the price of the meal, and should also not be altered directly.
