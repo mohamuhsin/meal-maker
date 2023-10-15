@@ -22,7 +22,7 @@ Then, below the new assignments, console.log() the menu object to see how not ty
 
 Add Setter Methods
 
-**.** To safely reassign the two menu properties, we can add setters that type check the values being assigned.
+**5.** To safely reassign the two menu properties, we can add setters that type check the values being assigned.
 
 Below the properties, use the set keyword to create a meal setter method with mealToCheck as a parameter. Leave the function body empty for now.
 
