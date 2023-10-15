@@ -42,6 +42,6 @@ If _meal and _price values do not exist (or are falsy) return the string 'Meal o
 
 ### Get Today's Special
 
-**11.** Finally, use the getter method to console.log() Today’s Special.
+**1.** Finally, use the getter method to console.log() Today’s Special.
 
 Assuming you used the meal setter to assign a string, and the price setter to assign a number in task 8, you should see Today’s Special logged to the console.
