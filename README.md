@@ -36,7 +36,7 @@ Below the properties, use the set keyword to create a meal setter method with me
 
 Below the setters, use the get keyword to create a todaysSpecial method. Leave the function body empty for now.
 
-**10.** In the body of the getter, create an if…else statement to check if _meal and _price values exist (or are truthy values). If so, return a string telling potential website visitors what Today’s Special is. For example: “Today’s Special is Spaghetti for $5!”
+**.** In the body of the getter, create an if…else statement to check if _meal and _price values exist (or are truthy values). If so, return a string telling potential website visitors what Today’s Special is. For example: “Today’s Special is Spaghetti for $5!”
 
 If _meal and _price values do not exist (or are falsy) return the string 'Meal or price was not set correctly!'.
 
