@@ -12,7 +12,7 @@ create an empty menu object.
 
 Within the menu object, create a _meal property with a value of an empty string (''). This will eventually hold the name of the meal.
 
-**.** Next, add a _price property with a value of 0. This will eventually hold the price of the meal, and should also not be altered directly.
+**3.** Next, add a _price property with a value of 0. This will eventually hold the price of the meal, and should also not be altered directly.
 
 **.** We know properties that begin with _ should not be directly manipulated. But just to validate this knowledge, let’s test it out!
 
