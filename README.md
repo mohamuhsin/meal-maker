@@ -14,7 +14,7 @@ Within the menu object, create a _meal property with a value of an empty string 
 
 **3.** Next, add a _price property with a value of 0. This will eventually hold the price of the meal, and should also not be altered directly.
 
-**.** We know properties that begin with _ should not be directly manipulated. But just to validate this knowledge, let’s test it out!
+**4.** We know properties that begin with _ should not be directly manipulated. But just to validate this knowledge, let’s test it out!
 
 Below the menu object, directly manipulate the two properties by assigning _meal a number value and _price a string value.
 
