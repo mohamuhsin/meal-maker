@@ -4,7 +4,7 @@ A restaurant has hired you to create a function for their website that allows th
 
  Tasks
 
-**1.** We’ll hold the meal, price, and their respective getters and setters in an object named menu.
+**.** We’ll hold the meal, price, and their respective getters and setters in an object named menu.
 
 create an empty menu object.
 
