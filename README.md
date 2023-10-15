@@ -20,7 +20,7 @@ Below the menu object, directly manipulate the two properties by assigning _meal
 
 Then, below the new assignments, console.log() the menu object to see how not type checking these values could cause confusion for a website visitor!
 
-Add Setter Methods
+### Add Setter Methods
 
 **5.** To safely reassign the two menu properties, we can add setters that type check the values being assigned.
 
