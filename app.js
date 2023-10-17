@@ -26,3 +26,41 @@ const menu = {
     
  }
 }
+
+
+//BARLES SOLUTION
+class MenuBarles {
+    constructor(meal,price){
+        this._meal = meal;
+        this._price =price;
+    }
+    // Setting Menu 
+    set meal (newMeal){
+        if(typeof newMeal == 'string' ){
+            this._meal = newMeal;
+        }
+    }
+    //getting the values of menu
+    get meal(){
+        return this._meal;
+    }
+
+    // Setting Menu 
+    set price (newPrice){
+        if(typeof newPrice == 'number' ){
+            this._price = newPrice;
+        }
+    }
+    //getting the values of menu
+    get price(){
+        return this._price;
+    }
+
+}
+
+const food = new MenuBarles('SeaFood',300);
+
+// View In Console
+console.log("Todays Meal & Price");
+console.log("Meal :", food.meal);
+console.log("Price :", food.price ," Ksh");
