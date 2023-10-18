@@ -18,6 +18,7 @@ const menuB = {
         : "Meal or price was not set correctly!"
     }
 }
- setMeal("rice")
- setPrice(200)
+menuB._meal = "chapo"
+menuB._price = 45
+
 console.log(menuB.todaysMenu)
